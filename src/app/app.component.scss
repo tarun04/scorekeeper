@@ -1,0 +1,18 @@
+.content-wrapper {
+  flex-grow: 1;
+  width: 100%;
+}
+
+/* small screens */
+@media screen and (min-width: 0px) and (max-width: 1320px) {
+  .content-wrapper {
+    padding: 0;
+  }
+}
+
+/* large screens */
+@media screen and (min-width: 1320px) {
+  .content-wrapper {
+    padding: 0 2em;
+  }
+}

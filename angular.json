@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "scorekeeper"
+    }
+  },
+  "defaultProject": "scorekeeper",
+  "cli": {
+    "analytics": "d5a563b3-308b-4b79-be3f-d14aedead2cb"
+  }
 }

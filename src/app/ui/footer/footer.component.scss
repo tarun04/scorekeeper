@@ -1,0 +1,37 @@
+.footer {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.footer-ul {
+  list-style-type: none;
+  padding: initial;
+  margin-bottom: 0;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.round-fa {
+  padding: 5px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-github {
+  color: black;
+}
+.fa-twitter {
+  color: #55acee;
+}
+.fa-linkedin {
+  color: #007bb5;
+}
